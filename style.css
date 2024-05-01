@@ -316,3 +316,22 @@ body {
     display: block;
     margin: 0 auto;
 }
+.img-with-text1 {
+ display: grid;
+ align-items: center; 
+ grid-template-columns: 1fr 1fr 1fr;
+ column-gap: 5px;
+ left: 30%;
+}
+.img-with-text1 img {
+    display: block;
+    width: 900px;
+    height: 600px;
+    padding-left: 30%;
+    padding-top: 100px;
+}
+.text1 {
+  font-size: 20px;
+  margin-left: 40%; 
+  padding-top: 100px;
+}
