@@ -325,8 +325,8 @@ body {
 }
 .img-with-text1 img {
     display: block;
-    width: 900px;
-    height: 600px;
+    width: 600px;
+    height: 300px;
     padding-left: 30%;
     padding-top: 100px;
 }
